@@ -1,4 +1,4 @@
-Hi there, I'm Ameer Dubashi 👋
+Hi there, I'm Aliyu Lawan 👋
 
 **Design It. Code It. Launch It. Where Ideas Go 5G.**
 
