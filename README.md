@@ -1,4 +1,4 @@
-# Hi there, I'm Ameer Dubashi 👋
+Hi there, I'm Ameer Dubashi 👋
 
 **Design It. Code It. Launch It. Where Ideas Go 5G.**
 
@@ -14,7 +14,7 @@ I'm a passionate **Software Developer** with a love for both app and web develop
 
 - **Languages:** JavaScript, Java, PHP, SQL, Dart
 - **Web:** HTML, CSS
-- **Frameworks & Tools:** (Add your favorites here!)
+- **Frameworks & Tools:** React, Django, Nodejs VS code, CM prompt.
 - **Specialties:** App & Web Development
 
 ---
